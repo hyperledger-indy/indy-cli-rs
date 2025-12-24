@@ -1,5 +1,5 @@
 # This is a batch script demonstration mostly used operations and flows.
-# Requires an Indy Ledger yo be started: https://github.com/hyperledger/indy-vdr#connecting-to-a-ledger
+# Requires an Indy Ledger yo be started: https://github.com/hyperledger-indy/indy-vdr#connecting-to-a-ledger
 # Scenario:
 #   1. Create Trustee Wallet and DID
 #   2. Create Endorser Wallet and DID

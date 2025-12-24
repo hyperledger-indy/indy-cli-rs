@@ -3,8 +3,8 @@ Section: devel
 Priority: optional
 Maintainer: Hyperledger Aries Contributors <aries@lists.hyperledger.org>
 Standards-Version: 1.0.0
-Vcs-Git: https://github.com/hyperledger/indy-cli-rs.git/
-Vcs-Browser: https://github.com/hyperledger/indy-cli-rs.git/
+Vcs-Git: https://github.com/hyperledger-indy/indy-cli-rs.git/
+Vcs-Browser: https://github.com/hyperledger-indy/indy-cli-rs.git/
 
 Package: indy-cli-rs
 Architecture: amd64

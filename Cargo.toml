@@ -3,7 +3,7 @@ name = "indy-cli-rs"
 version = "0.1.0"
 authors = ["Hyperledger Aries Contributors <aries@lists.hyperledger.org>"]
 license = "MIT/Apache-2.0"
-homepage = "https://github.com/hyperledger/indy-cli-rs.git"
+homepage = "https://github.com/hyperledger-indy/indy-cli-rs.git"
 description = """\
 This is command line interface for Indy, which provides a distributed-ledger-based foundation for self-sovereign identity."""
 readme = "../README.md"
@@ -24,7 +24,7 @@ dirs = "4.0.0"
 dryoc = "0.4.3"
 hex = "0.4.3"
 indy-utils = "0.5.0"
-indy-vdr = { git = "https://github.com/hyperledger/indy-vdr.git" }
+indy-vdr = { git = "https://github.com/hyperledger-indy/indy-vdr.git" }
 linefeed = "0.6.0"
 log = "0.4.17"
 log4rs = "1.2.0"
