@@ -19,7 +19,7 @@ It provides the commands to:
 * [Troubleshooting](#troubleshooting)
 
 ### Installation
-1. Go to the [Github Releases](https://github.com/hyperledger/indy-cli-rs/releases) page.
+1. Go to the [Github Releases](https://github.com/hyperledger-indy/indy-cli-rs/releases) page.
 1. Download archive with the last version of CLI depending on your system platform.
 1. Unzip archive to the directory where you want to save CLI.
 1. After unzip you will be able to execute binary file.
